@@ -1,6 +1,6 @@
 name: workflow-events
 on: 
-  push
+  push:
 
 jobs:
   echo:
